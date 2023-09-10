@@ -1,0 +1,19 @@
+.reult_item{
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 450px;
+}
+.test_image_and_result{
+    background-color: grey;
+    padding: 50px;
+}
+.img{
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+}
+h5, h4{
+    font-size: 30px;
+    color: white;
+}
